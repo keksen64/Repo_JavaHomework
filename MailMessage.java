@@ -1,4 +1,4 @@
-package sPack;
+package java_homework;
 
 class MailMessage implements MailInterface<String> {
     private final String from;
