@@ -1,4 +1,4 @@
-package sPack;
+package java_homework;
 
 class Salary implements MailInterface<Integer> {
     private final String from;
