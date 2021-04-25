@@ -1,4 +1,4 @@
-package sPack;
+package java_homework;
 
 public interface MailInterface <T> {
     String getTo();
