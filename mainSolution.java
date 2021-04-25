@@ -1,4 +1,4 @@
-package sPack;
+package java_homework;
 import java.lang.String;
 import java.util.Arrays;
 import java.util.Collections;
